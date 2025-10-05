@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: todo-list
+  profiles:
+    active: test
+  jpa:
+    open-in-view: false
